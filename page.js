@@ -13,7 +13,7 @@ document.write(`
 		<tr height="108"><td><img src="banner.png"></td></tr>
 		<tr style="background-color: black;"><td>
 			<table style="margin: auto; border-spacing: 5px;"><tr>
-				<td style="padding-right: 1em;"><a href="homepage.html" style="color: white;"><b>Home</b></a></td>
+				<td style="padding-right: 1em;"><a href="index.html" style="color: white;"><b>Home</b></a></td>
 				<td style="padding-right: 1em;"><a href="vandiino.html" style="color: white;"><b>Vandiino</b></a></td>
 				<td style="padding-right: 1em;"><b style="color: white;">Extras</b></td>
 				<td style="padding-right: 1em;"><b style="color: white;">Wiki</b></td>
