@@ -1,0 +1,21 @@
+<html><head><title>Vandistan - Homepage</title><script src="page.js"></script>
+
+<center><table>
+<td><img src="dancing-cat.gif" style="height: 100px"></td>
+<td><h1>Welcome to Vandistan</h1></td>
+<td><img src="dancing-cat.gif" style="height: 100px"></td>
+</table></center>
+
+<iframe 
+  srcdoc="<!DOCTYPE html><html><head><style>body{margin:0;overflow:hidden;background:transparent;display:flex;justify-content:center;align-items:center;height:100vh;}</style></head><body><canvas id='c'></canvas><script>(()=>{const c=document.getElementById('c'),ctx=c.getContext('2d'),img=new Image();img.src='flag.png';let t=0;img.onload=()=>{const w=240,h=Math.round(w*(img.naturalHeight/img.naturalWidth)),pad=10;c.width=w;c.height=h+pad;const base=pad/2;(function loop(){ctx.clearRect(0,0,w,c.height);for(let x=0;x<w;x++){const p=x/w,y=base+Math.sin(x*0.04-t)*(p*7)+Math.sin(x*0.09-t*1.5)*(p*2.5);const sx=(x/w)*img.naturalWidth,sw=Math.ceil(img.naturalWidth/w);ctx.drawImage(img,sx,0,sw,img.naturalHeight,x,y,2,h);const s=Math.cos(x*0.04-t);if(s<0){ctx.fillStyle=`rgba(0,0,0,${-s*0.3*p})`;ctx.fillRect(x,y,2,h);}}t+=0.06;requestAnimationFrame(loop);})();};})();</script></body></html>"
+  width="240" 
+  height="165" 
+  style="display: block; margin: 15px auto; border: none; overflow: hidden; background: transparent;"
+  scrolling="no">
+</iframe>
+
+<p style="margin-left: 50px;margin-right: 50px;text-align: justify;">Vandistan, officially the Republic of Vandistan [Vandiino: Repúblik Vandistan], is an island country in Northern Europe, comprising of the islands of the Svalbard archipelago and the remote island of Jan Mayen. </p>
+
+<center><img src="Map_of_Vandistan.png" style="width: 800px"></center>
+
+</td></tr></table></body></html>
