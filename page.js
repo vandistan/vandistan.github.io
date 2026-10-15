@@ -16,8 +16,7 @@ document.write(`
 				<td style="padding-right: 1em;"><a href="index.html" style="color: white;"><b>Home</b></a></td>
 				<td style="padding-right: 1em;"><a href="vandiino.html" style="color: white;"><b>Vandiino</b></a></td>
 				<td style="padding-right: 1em;"><a href="holy_toast.html" style="color: white;"><b>Mythology</b></a></td>
-				<td style="padding-right: 1em;"><b style="color: white;">Wiki</b></td>
-				<td style="padding-right: 1em;"><b style="color: white;">Forum</b></td>
+				<td style="padding-right: 1em;"><a href="https://vandistan.fandom.com/wiki/Vandistan_Wiki" style="color: white;"><b>Mythology</b></a></td>
 				<td style="padding-right: 1em;"><a href="https://www.youtube.com/@vandurc" style="color: white;"><b>Youtube</b></a></td>
 				<td><a href="https://discord.com/invite/edPnJh6haU" style="color: white;"><b>Server Link</b></a></td>
 			</tr></table>
