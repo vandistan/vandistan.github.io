@@ -15,7 +15,7 @@ document.write(`
 			<table style="margin: auto; border-spacing: 5px;"><tr>
 				<td style="padding-right: 1em;"><a href="index.html" style="color: white;"><b>Home</b></a></td>
 				<td style="padding-right: 1em;"><a href="vandiino.html" style="color: white;"><b>Vandiino</b></a></td>
-				<td style="padding-right: 1em;"><b style="color: white;">Mythology</b></td>
+				<td style="padding-right: 1em;"><a href="holy_toast.html" style="color: white;"><b>Mythology</b></a></td>
 				<td style="padding-right: 1em;"><b style="color: white;">Wiki</b></td>
 				<td style="padding-right: 1em;"><b style="color: white;">Forum</b></td>
 				<td style="padding-right: 1em;"><a href="https://www.youtube.com/@vandurc" style="color: white;"><b>Youtube</b></a></td>
